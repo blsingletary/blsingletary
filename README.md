@@ -2,7 +2,7 @@
 <h3>I am a recent IT graduate with an interest in cybersecurity. <br/>On this page I will post everything tech related I accomplish.<br/>
 Please take a look around!</h3>
   
-<h2>👨‍💻 Cybersecurity Labs/Projects:</h2>
+<h2>👨‍💻 IT Labs/Projects:</h2>
 • <a href="https://github.com/blsingletary/Active-Directory-and-Group-Policy-Managment-Lab">Active Directory and Group Management Lab
 
 
