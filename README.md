@@ -3,7 +3,7 @@
 Please take a look around!</h3>
   
 <h2>👨‍💻 Cybersecurity Labs/Projects:</h2>
-•
+• <a href="https://github.com/blsingletary/Active-Directory-and-Group-Policy-Managment-Lab">Active Directory and Group Management Lab
 
 
 <h2> 📜 Certifications:</h2>
