@@ -8,7 +8,7 @@ Please take a look around!</h3>
 
 
 <h2> 📜 Certifications:</h2>
-• Security+ (In progress)
+• Security+
 
 
 <h2> 🤳 Connect with me:</h2>
