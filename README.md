@@ -8,7 +8,7 @@ Please take a look around!</h3>
 
 
 <h2> 📜 Certifications:</h2>
-• Security+
+• <a href="https://www.credly.com/badges/689f3c8c-4320-4f9c-91d7-2cba47f7800a/public_url">Security+
 
 
 <h2> 🤳 Connect with me:</h2>
