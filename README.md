@@ -4,8 +4,8 @@ Please take a look around!</h3>
   
 <h2>👨‍💻 IT Labs/Projects:</h2>
 • <a href="https://github.com/blsingletary/Active-Directory-and-Group-Policy-Managment-Lab">Active Directory and Group Policy Management Lab</a></br>
-• <a href="https://github.com/blsingletary/Networking-and-Building-a-Business-Network">Networking and Building a Business Network</a>
-
+• <a href="https://github.com/blsingletary/Networking-and-Building-a-Business-Network">Networking and Building a Business Network</a></br>
+• <a href="https://github.com/blsingletary/PowerShell-System-Administration-Automation-Lab-Part-1">Powershell System Administration Automation Lab (Part 1)</a>
 
 <h2> 📜 Certifications:</h2>
 • <a href="https://www.credly.com/badges/689f3c8c-4320-4f9c-91d7-2cba47f7800a/public_url">Security+
